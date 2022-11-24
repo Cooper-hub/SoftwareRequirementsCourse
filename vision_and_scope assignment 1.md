@@ -1,62 +1,36 @@
-﻿
-**Vision and Scope Document**
 
-**for**
 
-**Volunteer Management System**
-
-**Version 1.3 approved**
+# **Vision and Scope Document for Volunteer Management System**
+  
+ **Version 1.3 approved**
 
 **Prepared by Cooper Wendland, Almat Bolatbekov, and Emiliano Garcia**
 
 **Thompson Rivers University**
 
 **9/15/2022**
-***Vision and Scope for Volunteer Management System		Page*** 
 
+---
 **Table of Contents**
-
-Table of Contents	ii
-
-Revision History	ii
-
-\1.	Business Requirements	1
-
-1.1.	Background	1
-
-1.2.	Business Opportunity	1
-
-1.3.	Business Objectives and Success Criteria	1
-
-1.4.	Customer or Market Needs	1
-
-1.5.	Business Risks	1
-
-\2.	Vision of the Solution	2
-
-2.1.	Vision Statement	2
-
-2.2.	Major Features	2
-
-2.3.	Assumptions and Dependencies	2
-
-\3.	Scope and Limitations	2
-
-3.1.	Scope of Initial Release	2
-
-3.2.	Scope of Subsequent Releases	2
-
-3.3.	Limitations and Exclusions	3
-
-\4.	Business Context	3
-
-4.1.	Stakeholder Profiles	3
-
-4.2.	Project Priorities	4
-
-4.3.	Operating Environment	4
-
-
+| Content |
+| ----------- |
+|[1.	Business Requirements](1) |
+| 1.2.	Business Opportunity  |
+| 1.3.	Business Objectives and Success Criteria  |
+| 1.4.	Customer or Market Needs  |
+| 1.5.	Business Risks  |
+| 2.	Vision of the Solution  |
+| 2.1.	Vision Statement  |
+| 2.2.	Major Features  |
+| 2.3.	Assumptions and Dependencies  |
+| 3.	Scope and Limitations  |
+| 3.1.	Scope of Initial Release  |
+| 3.2.	Scope of Subsequent Releases |
+| 3.3.	Limitations and Exclusions  |
+| 4.1.	Stakeholder Profiles  |
+| 4.2.	Project Priorities  |
+| 4.3.	Operating Environment  |
+| 3.3.	Limitations and Exclusions  |
 
 
 **Revision History**
@@ -71,7 +45,7 @@ Revision History	ii
 |Cooper Wendland|9/22/2022|Added figures and filled in the rest|1.3|
 
 
-1. # **Business Requirements**
+<h3 id="1">1. Business Requirements</h3>
    1. ## **Background**
 After a drop in volunteer participation after the COVID-19 pandemic it has become abundantly clear that a volunteer management system is needed. At this time manual volunteer assignment takes two weeks which is unacceptable if the volunteer numbers are to return to a healthy number. The majority of the assignment time is spent manually performing background checks that take on average 10 days. However, with the automated checking system that will be ready in time for system deployment this time would be reduced to only 48 hours. In addition to helping seniors with daily tasks, a new system would allow volunteers to support students with tutoring and coaching in extracurricular activities.    
 1. ## **Business Opportunity**
