@@ -14,7 +14,7 @@
 **Table of Contents**
 | Content |
 | ----------- |
-|[1.	Business Requirements](B-R) |
+|[1.	Business Requirements](#B_R) |
 | 1.2.	Business Opportunity  |
 | 1.3.	Business Objectives and Success Criteria  |
 | 1.4.	Customer or Market Needs  |
@@ -45,7 +45,7 @@
 |Cooper Wendland|9/22/2022|Added figures and filled in the rest|1.3|
 
 
-<h3 id="B-R">1. Business Requirements</h3>
+<h3 id="B_R">1. Business Requirements</h3>
    1. ## **Background**
 After a drop in volunteer participation after the COVID-19 pandemic it has become abundantly clear that a volunteer management system is needed. At this time manual volunteer assignment takes two weeks which is unacceptable if the volunteer numbers are to return to a healthy number. The majority of the assignment time is spent manually performing background checks that take on average 10 days. However, with the automated checking system that will be ready in time for system deployment this time would be reduced to only 48 hours. In addition to helping seniors with daily tasks, a new system would allow volunteers to support students with tutoring and coaching in extracurricular activities.    
 
